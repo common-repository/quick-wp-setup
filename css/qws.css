@@ -1,0 +1,23 @@
+.good {
+	color:#8DB600;
+}
+.bad {
+	color:#E52B50;
+}
+
+li {
+	margin-left:10px;
+}
+
+#qws_plugin_urls {
+	margin-left:10px;
+}
+
+#qws_plugin_urls_installed {
+    background: #c0c0c0;
+}
+
+.qws_plugin_urls_installed {
+    color:#707070;
+    margin-bottom: 0;
+}
